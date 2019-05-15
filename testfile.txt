@@ -1,3 +1,4 @@
 this is a new text file 
 just checking how to add a new file
 
+Add a new line for new commit
